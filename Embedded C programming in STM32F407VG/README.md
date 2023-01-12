@@ -2,7 +2,7 @@
 1. Blinking LED
 2. Blinking LED - ON for 1s, OFF for 1s, using timers
 3. Constant PWM 
-4. Ramping PWM
+4. Varying PWM
 5. I2C protocol
 
 # Link to library
