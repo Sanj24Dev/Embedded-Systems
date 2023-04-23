@@ -5,6 +5,7 @@
 4. Varying PWM
 5. I2C protocol
 6. Motor
+7. SPI Protocol
 
 # Link to library
 - STM32F4 standard peripheral library [link](https://www.st.com/en/embedded-software/stsw-stm32065.html)
